@@ -26,7 +26,7 @@ I bring over 6 years of experience as a Web Developer. Throughout my career, I'v
 
 ## Notable Achievements
 
-- Successfully developed and deployed web scraping applications.
+- Successfully developed and deployed website & web applications.
 - Contributed to the development of various web applications.
 - Integrated ChatGPT into projects, enhancing user interaction and experience.
 - Deployed projects on AWS instances with autoscaling, ensuring optimal performance.
@@ -52,7 +52,7 @@ My skills cover a wide range of technologies, including but not limited to:
 
 I am always open to collaboration and new opportunities. Feel free to reach out if you have any questions, suggestions, or if you're interested in working together.
 
-- Want to know more about me: [Website](https://www.farazrohaila.com)
+- Want to know more about me: [Visit Website](https://www.farazrohaila.com)
 - Connect with me on LinkedIn: [Faraz Rohaila](www.linkedin.com/in/faraz-h-rohaila)
 - Contact me using my e-mail: [farazrohaila](farazrohaila@gmail.com)
 
