@@ -1,6 +1,3 @@
-Certainly, FR! Here's the provided information reformatted into a GitHub README.md structure:
-
-```markdown
 # Faraz Rohaila
 
 Welcome to my GitHub repository! I'm Faraz Rohaila, a Software engineer with a professional degree in Computer Science. I am passionate about exploring the world of technology and have a strong background in Web development. I've contributed to various projects, including web scraping, web app development, and web applications.
